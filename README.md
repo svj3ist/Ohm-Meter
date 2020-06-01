@@ -1,5 +1,6 @@
 # Ohm-Meter
 Ohm Meter for a Arduino based, ethernet tester.
+![alt text](Screenshot_8.jpg "3D model")
 ![alt text](IMG_20200519_201410.jpg "Внутренности")
 ![alt text](IMG_20200526_175812.jpg "Корпус")
 ![alt text](IMG_20200526_175825.jpg "Корпус")
