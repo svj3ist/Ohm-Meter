@@ -1,2 +1,2 @@
 # Ohm-Meter
-Ohm Meter for a Arduiono based, ethernet tester.
+Ohm Meter for a Arduino based, ethernet tester.
